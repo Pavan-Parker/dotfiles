@@ -1,0 +1,7 @@
+[user]
+	email = ppavanrockz@gmail.com
+	name = Pavan-Parker
+[user "user"]
+	name = Pavan-Parker
+[core]
+	editor = vim
