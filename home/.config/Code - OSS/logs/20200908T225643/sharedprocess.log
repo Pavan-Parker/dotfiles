@@ -1,0 +1,20 @@
+[2020-09-08 22:56:46.581] [sharedprocess] [info] main {"machineId":"523aec86f0c269a519d939fbb2829ef00b74a0fb980d72107dca13b42c5fd448","windowId":2}
+[2020-09-08 22:57:26.596] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-09 00:10:26.783] [sharedprocess] [info] Installing extension: xiangdong-zeng.vscode-glyphs
+[2020-09-09 00:10:27.657] [sharedprocess] [info] Downloaded extension: xiangdong-zeng.vscode-glyphs /home/nice/.config/Code - OSS/CachedExtensionVSIXs/xiangdong-zeng.vscode-glyphs-0.0.1
+[2020-09-09 00:10:27.731] [sharedprocess] [info] Extracted extension to /home/nice/.vscode-oss/extensions/.xiangdong-zeng.vscode-glyphs-0.0.1: xiangdong-zeng.vscode-glyphs
+[2020-09-09 00:10:27.731] [sharedprocess] [info] Renamed to /home/nice/.vscode-oss/extensions/xiangdong-zeng.vscode-glyphs-0.0.1
+[2020-09-09 00:10:27.732] [sharedprocess] [info] Installation completed. xiangdong-zeng.vscode-glyphs
+[2020-09-09 00:10:27.735] [sharedprocess] [info] Extensions installed successfully: xiangdong-zeng.vscode-glyphs
+[2020-09-09 00:10:45.254] [sharedprocess] [info] Installing extension: idleberg.icon-fonts
+[2020-09-09 00:10:47.197] [sharedprocess] [info] Installing extension: idleberg.svg-icons
+[2020-09-09 00:10:50.558] [sharedprocess] [info] Downloaded extension: idleberg.svg-icons /home/nice/.config/Code - OSS/CachedExtensionVSIXs/idleberg.svg-icons-0.7.0
+[2020-09-09 00:10:50.596] [sharedprocess] [info] Extracted extension to /home/nice/.vscode-oss/extensions/.idleberg.svg-icons-0.7.0: idleberg.svg-icons
+[2020-09-09 00:10:50.596] [sharedprocess] [info] Renamed to /home/nice/.vscode-oss/extensions/idleberg.svg-icons-0.7.0
+[2020-09-09 00:10:50.597] [sharedprocess] [info] Installation completed. idleberg.svg-icons
+[2020-09-09 00:10:50.599] [sharedprocess] [info] Extensions installed successfully: idleberg.svg-icons
+[2020-09-09 00:10:57.597] [sharedprocess] [info] Downloaded extension: idleberg.icon-fonts /home/nice/.config/Code - OSS/CachedExtensionVSIXs/idleberg.icon-fonts-2.3.1
+[2020-09-09 00:10:57.950] [sharedprocess] [info] Extracted extension to /home/nice/.vscode-oss/extensions/.idleberg.icon-fonts-2.3.1: idleberg.icon-fonts
+[2020-09-09 00:10:57.950] [sharedprocess] [info] Renamed to /home/nice/.vscode-oss/extensions/idleberg.icon-fonts-2.3.1
+[2020-09-09 00:10:57.950] [sharedprocess] [info] Installation completed. idleberg.icon-fonts
+[2020-09-09 00:10:57.958] [sharedprocess] [info] Extensions installed successfully: idleberg.icon-fonts

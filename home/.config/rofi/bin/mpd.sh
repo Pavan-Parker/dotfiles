@@ -1,1 +1,1 @@
-../../../../../../../.config/rofi/scripts/mpd.sh
+../../../.homesick/repos/dotfiles/home/.config/rofi/bin/mpd.sh

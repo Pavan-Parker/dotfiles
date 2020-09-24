@@ -1,1 +1,1 @@
-../../../../../../../.config/rofi/scripts/quicklinks.sh
+../../../.homesick/repos/dotfiles/home/.config/rofi/bin/quicklinks.sh

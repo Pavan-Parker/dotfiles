@@ -1,1 +1,1 @@
-../../../../../../../.config/rofi/scripts/menu_battery.sh
+../../../.homesick/repos/dotfiles/home/.config/rofi/bin/menu_battery.sh

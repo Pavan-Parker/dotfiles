@@ -1,0 +1,23 @@
+{
+    "com.github.elken.terminal-runner": {
+        "id": "com.github.elken.terminal-runner",
+        "url": "https://github.com/elken/Terminal-Runner",
+        "updated_at": "2020-09-03T10:30:42.855431",
+        "last_commit": "6807ebe6047462bcce6063c63228eddcb8c6b481",
+        "last_commit_time": "2020-02-22T23:04:04"
+    },
+    "com.github.cmuench.ulauncher-todoist": {
+        "id": "com.github.cmuench.ulauncher-todoist",
+        "url": "https://github.com/cmuench/ulauncher-todoist",
+        "updated_at": "2020-09-03T10:33:22.602490",
+        "last_commit": "1f5ddb7071195e939330d9d1772449649f563499",
+        "last_commit_time": "2019-09-07T17:56:32"
+    },
+    "com.github.brpaz.ulauncher-awesomelists": {
+        "id": "com.github.brpaz.ulauncher-awesomelists",
+        "url": "https://github.com/brpaz/ulauncher-awesomelists",
+        "updated_at": "2020-09-03T20:39:25.971484",
+        "last_commit": "bffc205123cc8d92053c91308376b4d3d055c7a8",
+        "last_commit_time": "2019-12-03T19:56:33"
+    }
+}

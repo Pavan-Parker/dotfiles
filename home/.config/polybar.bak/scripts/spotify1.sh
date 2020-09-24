@@ -1,0 +1,1 @@
+../../polybar/scripts/spotify1.sh

@@ -1,1 +1,1 @@
-../../../../../../../.config/rofi/scripts/network.sh
+../../../.homesick/repos/dotfiles/home/.config/rofi/bin/network.sh

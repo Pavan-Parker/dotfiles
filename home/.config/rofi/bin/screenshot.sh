@@ -1,1 +1,1 @@
-../../../../../../../.config/rofi/scripts/screenshot.sh
+../../../.homesick/repos/dotfiles/home/.config/rofi/bin/screenshot.sh

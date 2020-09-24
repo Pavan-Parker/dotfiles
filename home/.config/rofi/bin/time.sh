@@ -1,1 +1,1 @@
-../../../../../../../.config/rofi/scripts/time.sh
+../../../.homesick/repos/dotfiles/home/.config/rofi/bin/time.sh

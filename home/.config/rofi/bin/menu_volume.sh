@@ -1,1 +1,1 @@
-../../../../../../../.config/rofi/scripts/menu_volume.sh
+../../../.homesick/repos/dotfiles/home/.config/rofi/bin/menu_volume.sh

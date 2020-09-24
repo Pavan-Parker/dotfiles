@@ -1,0 +1,26 @@
+[2020-09-15 13:27:18.191] [sharedprocess] [info] main {"machineId":"523aec86f0c269a519d939fbb2829ef00b74a0fb980d72107dca13b42c5fd448","windowId":2}
+[2020-09-15 13:27:21.089] [sharedprocess] [info] Installing extension: idleberg.icon-fonts
+[2020-09-15 13:27:21.090] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-09-15 13:27:21.090] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-09-15 13:27:23.043] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2020-09-15 13:27:30.982] [sharedprocess] [info] Downloaded extension: idleberg.icon-fonts /home/nice/.config/Code - OSS/CachedExtensionVSIXs/idleberg.icon-fonts-2.3.2
+[2020-09-15 13:27:31.307] [sharedprocess] [info] Extracted extension to /home/nice/.vscode-oss/extensions/.idleberg.icon-fonts-2.3.2: idleberg.icon-fonts
+[2020-09-15 13:27:31.307] [sharedprocess] [info] Renamed to /home/nice/.vscode-oss/extensions/idleberg.icon-fonts-2.3.2
+[2020-09-15 13:27:31.308] [sharedprocess] [info] Installation completed. idleberg.icon-fonts
+[2020-09-15 13:27:31.324] [sharedprocess] [info] Extensions installed successfully: idleberg.icon-fonts
+[2020-09-15 13:27:39.570] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/nice/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.cpptools-1.0.0
+[2020-09-15 13:27:40.240] [sharedprocess] [info] Extracted extension to /home/nice/.vscode-oss/extensions/.ms-vscode.cpptools-1.0.0: ms-vscode.cpptools
+[2020-09-15 13:27:40.240] [sharedprocess] [info] Renamed to /home/nice/.vscode-oss/extensions/ms-vscode.cpptools-1.0.0
+[2020-09-15 13:27:40.243] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-09-15 13:27:40.256] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-09-15 13:27:41.837] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/nice/.config/Code - OSS/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2020-09-15 13:27:45.079] [sharedprocess] [info] Extracted extension to /home/nice/.vscode-oss/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2020-09-15 13:27:45.079] [sharedprocess] [info] Renamed to /home/nice/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1
+[2020-09-15 13:27:45.080] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2020-09-15 13:27:45.095] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2020-09-15 13:27:58.212] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-15 13:28:11.235] [sharedprocess] [info] Downloaded extension: ms-python.python /home/nice/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2020.8.108011
+[2020-09-15 13:28:13.611] [sharedprocess] [info] Extracted extension to /home/nice/.vscode-oss/extensions/.ms-python.python-2020.8.108011: ms-python.python
+[2020-09-15 13:28:13.611] [sharedprocess] [info] Renamed to /home/nice/.vscode-oss/extensions/ms-python.python-2020.8.108011
+[2020-09-15 13:28:13.615] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-09-15 13:28:13.639] [sharedprocess] [info] Extensions installed successfully: ms-python.python

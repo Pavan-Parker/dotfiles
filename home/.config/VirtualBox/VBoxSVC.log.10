@@ -1,0 +1,37 @@
+00:00:00.002609 main     VirtualBox XPCOM Server 6.1.14 r140239 linux.amd64 (Sep  7 2020 21:01:30) release log
+00:00:00.002613 main     Log opened 2020-09-23T14:16:07.197240000Z
+00:00:00.002615 main     Build Type: release
+00:00:00.002618 main     OS Product: Linux
+00:00:00.002620 main     OS Release: 5.8.10-arch1-1
+00:00:00.002622 main     OS Version: #1 SMP PREEMPT Thu, 17 Sep 2020 18:01:06 +0000
+00:00:00.002683 main     DMI Product Name: X556UQK
+00:00:00.002702 main     DMI Product Version: 1.0       
+00:00:00.002709 main     Firmware type: UEFI
+00:00:00.003626 main     Secure Boot: Disabled
+00:00:00.003698 main     Host RAM: 7713MB (7.5GB) total, 7007MB (6.8GB) available
+00:00:00.003703 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.003704 main     Process ID: 2178
+00:00:00.003705 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.007255 main     IPC socket path: /tmp/.vbox-nice-ipc/ipcd
+00:00:00.119488 nspr-2   VirtualBox: object creation starts
+00:00:00.119681 nspr-2   Home directory: '/home/nice/.config/VirtualBox'
+00:00:00.120467 nspr-2   Loading settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.133355 nspr-2   USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x3496)
+00:00:00.133696 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.153531 nspr-2   HostDnsMonitor: initializing
+00:00:00.154164 nspr-2   HostDnsMonitor: updating information
+00:00:00.154194 nspr-2   HostDnsMonitor: unchanged
+00:00:00.161644 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.163364 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.164415 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.166191 nspr-2   VirtualBox: object created
+00:00:00.185668 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.186590 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.187374 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.187596 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:05.384387 main     VirtualBox: object deletion starts
+00:00:05.384944 main     HostDnsMonitor: shutting down ...
+00:00:05.385309 main     HostDnsMonitor: shut down
+00:00:05.669198 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:10.392677 main     {00007f0af80180e0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:10.393405 main     VirtualBox: object deleted

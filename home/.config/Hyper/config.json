@@ -1,0 +1,14 @@
+{
+	"windowPosition": [
+		970,
+		40
+	],
+	"windowSize": [
+		910,
+		970
+	],
+	"hyper": {
+		"plugins": "{\"plugins\":[\"hyper-snazzy\",\"hypercwd\",\"hyper-blink\",\"hyperterm-dibdabs\"],\"localPlugins\":[]}",
+		"plugin-versions": "[[\"hyper-snazzy\",\"1.3.0\"],[\"hypercwd\",\"1.4.0\"],[\"hyper-blink\",\"1.1.2\"],[\"hyperterm-dibdabs\",\"0.0.8\"]]"
+	}
+}

@@ -1,1 +1,1 @@
-../../../../../../../.config/rofi/scripts/menu_powermenu.sh
+../../../.homesick/repos/dotfiles/home/.config/rofi/bin/menu_powermenu.sh

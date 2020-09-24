@@ -1,0 +1,121 @@
+00:00:00.000526 main     VirtualBox XPCOM Server 6.1.14 r140239 linux.amd64 (Sep  7 2020 21:01:30) release log
+00:00:00.000531 main     Log opened 2020-09-24T05:14:20.731132000Z
+00:00:00.000532 main     Build Type: release
+00:00:00.000535 main     OS Product: Linux
+00:00:00.000537 main     OS Release: 5.8.10-arch1-1
+00:00:00.000539 main     OS Version: #1 SMP PREEMPT Thu, 17 Sep 2020 18:01:06 +0000
+00:00:00.000567 main     DMI Product Name: X556UQK
+00:00:00.000579 main     DMI Product Version: 1.0       
+00:00:00.000586 main     Firmware type: UEFI
+00:00:00.001426 main     Secure Boot: Disabled
+00:00:00.001488 main     Host RAM: 7713MB (7.5GB) total, 5895MB (5.7GB) available
+00:00:00.001494 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001495 main     Process ID: 7193
+00:00:00.001496 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.004763 main     IPC socket path: /tmp/.vbox-nice-ipc/ipcd
+00:00:00.115997 nspr-2   VirtualBox: object creation starts
+00:00:00.116271 nspr-2   Home directory: '/home/nice/.config/VirtualBox'
+00:00:00.116942 nspr-2   Loading settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.122322 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.144956 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.168611 nspr-2   HostDnsMonitor: initializing
+00:00:00.169248 nspr-2   NAT: resolv.conf: nameserver 8.8.8.8
+00:00:00.169284 nspr-2   NAT: resolv.conf: nameserver 1.1.1.1
+00:00:00.169313 nspr-2   HostDnsMonitor: updating information
+00:00:00.169353 nspr-2   HostDnsMonitor: old information
+00:00:00.169362 nspr-2     no server entries
+00:00:00.169371 nspr-2     no domain set
+00:00:00.169378 nspr-2     no search string entries
+00:00:00.169386 nspr-2   HostDnsMonitor: new information
+00:00:00.169393 nspr-2     server 1: 8.8.8.8
+00:00:00.169403 nspr-2     server 2: 1.1.1.1
+00:00:00.169411 nspr-2     no domain set
+00:00:00.169418 nspr-2     no search string entries
+00:00:00.205026 nspr-2   failed to create vboxnet0, error (0x80004005)
+00:00:00.205520 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.205742 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.227604 nspr-2   Loading settings file "/home/nice/VirtualBox VMs/Phoenix OS/Phoenix OS.vbox" with version "1.15-linux"
+00:00:00.232037 nspr-2   Loading settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:00:00.236076 nspr-2   VirtualBox: object created
+00:00:00.281139 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:00.281444 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:00.281663 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:00.281828 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:00.615633 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.685509 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.696400 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.709717 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.731233 nspr-2   Saving settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.748975 nspr-2   Saving settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.817501 nspr-2   Saving settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.820485 nspr-2   Saving settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.985864 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:01.057976 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:01.130154 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:01.136518 nspr-3   Saving settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.198000 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:01.203340 nspr-2   Saving settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.205730 nspr-2   Saving settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.208010 nspr-3   Saving settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.210699 nspr-3   Saving settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.214026 nspr-2   Saving settings file "/home/nice/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.280738 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.280937 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.281083 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.281210 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.411390 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.411559 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.411675 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.411814 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.632365 nspr-3   Saving settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:00:01.690659 nspr-3   Saving settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:00:01.759438 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.759693 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.759855 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.759999 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:01.822960 nspr-2   Saving settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:00:01.881841 nspr-2   Saving settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:00:01.935537 nspr-2   Saving settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:00:01.989034 nspr-2   Saving settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:00:02.043619 nspr-3   Saving settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:00:02.100384 nspr-3   Saving settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:00:02.160719 nspr-3   Saving settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:00:02.228004 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:02.228185 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:02.228319 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:02.228443 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:02.292048 nspr-2   Launched VM: 2013276368 pid: 7628 (0x1dcc) frontend: headless name: Google Pixel 2 XL
+00:00:02.348100 nspr-4   Saving settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:00:02.394920 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:02.401252 nspr-2   NetworkServiceRunning: started 'VBoxNetDHCP', pid 00001dde
+00:00:02.564492 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:02.564694 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:02.564818 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:00:02.564944 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:10:32.548946 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:10:32.705174 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:10:32.989019 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:10:32.989252 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:10:32.989552 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:10:32.989732 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:10:33.096643 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:10:33.096879 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:10:33.097079 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:10:33.097246 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:14:38.572243 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:14:38.577353 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:14:38.577609 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:14:38.577829 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false aResultDetail=0
+00:14:38.764326 nspr-2   Saving settings file "/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Google Pixel 2 XL.vbox" with version "1.12-linux"
+00:14:43.839827 main     VirtualBox: object deletion starts
+00:14:43.839931 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/nice/goodstuff/64bit/PhoenixOS v3.6.1.564 (64bit).vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:14:43.840165 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:14:43.840326 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Snapshots/{2d9a9c1c-1c20-4cdc-bc11-45e2fdf06d20}.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:14:43.840416 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/android_system_disk.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:14:43.840466 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/Snapshots/{28c17b8e-eefa-48c4-aca9-162cc33359b5}.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:14:43.840510 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/nice/.Genymobile/Genymotion/deployed/Google Pixel 2 XL/android_data_disk.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:14:43.841067 main     NetworkServiceRunning: killing VBoxNetDHCP, pid 00001dde...
+00:14:43.878949 main     HostDnsMonitor: shutting down ...
+00:14:43.884418 main     HostDnsMonitor: shut down
+00:14:48.891081 main     {00007f167c018740} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:14:48.891709 main     VirtualBox: object deleted

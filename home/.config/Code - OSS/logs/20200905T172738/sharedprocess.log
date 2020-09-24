@@ -1,0 +1,9 @@
+[2020-09-05 17:27:42.494] [sharedprocess] [info] main {"machineId":"523aec86f0c269a519d939fbb2829ef00b74a0fb980d72107dca13b42c5fd448","windowId":2}
+[2020-09-05 17:27:43.324] [sharedprocess] [info] Deleted from disk ms-python.python /home/nice/.vscode-oss/extensions/ms-python.python-2020.8.105045
+[2020-09-05 17:27:45.223] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-09-05 17:28:22.523] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-05 17:29:05.829] [sharedprocess] [info] Downloaded extension: ms-python.python /home/nice/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2020.8.106424
+[2020-09-05 17:29:08.924] [sharedprocess] [info] Extracted extension to /home/nice/.vscode-oss/extensions/.ms-python.python-2020.8.106424: ms-python.python
+[2020-09-05 17:29:08.924] [sharedprocess] [info] Renamed to /home/nice/.vscode-oss/extensions/ms-python.python-2020.8.106424
+[2020-09-05 17:29:08.929] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-09-05 17:29:08.965] [sharedprocess] [info] Extensions installed successfully: ms-python.python

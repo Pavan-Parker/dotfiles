@@ -1,1 +1,1 @@
-../../../../../../../.config/rofi/scripts/menu_backlight.sh
+../../../.homesick/repos/dotfiles/home/.config/rofi/bin/menu_backlight.sh

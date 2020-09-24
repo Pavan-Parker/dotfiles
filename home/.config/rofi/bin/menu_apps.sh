@@ -1,1 +1,1 @@
-../../../../../../../.config/rofi/scripts/menu_apps.sh
+../../../.homesick/repos/dotfiles/home/.config/rofi/bin/menu_apps.sh
